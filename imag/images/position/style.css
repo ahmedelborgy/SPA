@@ -1,0 +1,15 @@
+.item {
+  background-color: red;
+  width: 25%;
+  position: relative;
+}
+img {
+  width: 100%;
+}
+.caption {
+  background-color: rgba(55, 99, 77, 0.4);
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
